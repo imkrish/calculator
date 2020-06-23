@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/imkrish/az-400/_apis/build/status/imkrish.calculator?branchName=master)](https://dev.azure.com/imkrish/az-400/_build/latest?definitionId=2&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
